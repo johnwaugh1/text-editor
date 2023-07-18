@@ -1,4 +1,4 @@
-const textarea = document.getElementById("textarea");
+const textarea = document.getElementById("document");
 
 function f1(e)
 {
