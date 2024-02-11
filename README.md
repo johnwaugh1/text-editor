@@ -1,4 +1,4 @@
-# Simple Web Based Text Editor (Work In Progress)
+# Simple Web Based Text Editor
 By John Waugh
 
 My goal with this project was to recreate a simple web based text editor which one might find online or on their computer. 
